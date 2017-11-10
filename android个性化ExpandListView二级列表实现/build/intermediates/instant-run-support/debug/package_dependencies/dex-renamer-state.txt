@@ -1,0 +1,4 @@
+#Tue Oct 31 11:03:41 CST 2017
+base.0=F\:\\will_meijuji_learn\\Test\\android个性化ExpandListView二级列表实现\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_11f4f86b5f3dc17740983b536ea63625a0a49add
+renamed.0=classes.dex
+file.0=F\:\\will_meijuji_learn\\Test\\android个性化ExpandListView二级列表实现\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_11f4f86b5f3dc17740983b536ea63625a0a49add\\classes.dex

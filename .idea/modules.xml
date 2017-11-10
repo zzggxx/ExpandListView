@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExpandListView.iml" filepath="$PROJECT_DIR$/ExpandListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android个性化ExpandListView二级列表实现/android个性化ExpandListView二级列表实现.iml" filepath="$PROJECT_DIR$/android个性化ExpandListView二级列表实现/android个性化ExpandListView二级列表实现.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android实现新闻分类二级下拉菜单效果/android实现新闻分类二级下拉菜单效果.iml" filepath="$PROJECT_DIR$/android实现新闻分类二级下拉菜单效果/android实现新闻分类二级下拉菜单效果.iml" />
+    </modules>
+  </component>
+</project>

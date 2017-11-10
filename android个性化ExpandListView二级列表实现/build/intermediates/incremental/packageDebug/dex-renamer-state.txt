@@ -1,0 +1,7 @@
+#Tue Oct 31 11:03:42 CST 2017
+base.0=F\:\\will_meijuji_learn\\Test\\android个性化ExpandListView二级列表实现\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2129f0c98b04ba9b5a4ff8e139d3fef06c75949b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\will_meijuji_learn\\Test\\android个性化ExpandListView二级列表实现\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ca8a88273af497131c8d3bfbfb8ba9aad4e00335\\classes.dex
+base.1=F\:\\will_meijuji_learn\\Test\\android个性化ExpandListView二级列表实现\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ca8a88273af497131c8d3bfbfb8ba9aad4e00335
+file.0=F\:\\will_meijuji_learn\\Test\\android个性化ExpandListView二级列表实现\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2129f0c98b04ba9b5a4ff8e139d3fef06c75949b\\classes.dex

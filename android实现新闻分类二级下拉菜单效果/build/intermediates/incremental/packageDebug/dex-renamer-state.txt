@@ -1,0 +1,7 @@
+#Fri Nov 10 18:04:06 CST 2017
+base.0=F\:\\will_meijuji_learn\\ExpandListView\\android实现新闻分类二级下拉菜单效果\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_22c40f2843b13516b595ed87be8411c3e147630d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\will_meijuji_learn\\ExpandListView\\android实现新闻分类二级下拉菜单效果\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_dd419d1559fc973066cc3c5480080e17bfa23d8b\\classes.dex
+base.1=F\:\\will_meijuji_learn\\ExpandListView\\android实现新闻分类二级下拉菜单效果\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_dd419d1559fc973066cc3c5480080e17bfa23d8b
+file.0=F\:\\will_meijuji_learn\\ExpandListView\\android实现新闻分类二级下拉菜单效果\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_22c40f2843b13516b595ed87be8411c3e147630d\\classes.dex

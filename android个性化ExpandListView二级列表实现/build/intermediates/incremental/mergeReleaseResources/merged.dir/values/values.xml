@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="back">#efeff4</color>
+    <color name="black">#000000</color>
+    <color name="btn_normal_color">#d7dcde</color>
+    <color name="btn_pressed_color">#008B00</color>
+    <color name="circle_text">#ffffff</color>
+    <color name="head_text_color">#008B45</color>
+    <color name="header_color">#ffffff</color>
+    <color name="item_line_color">#c8c7cc</color>
+    <color name="item_text_color">#2b2b2b</color>
+    <color name="line_color">#6bc78b</color>
+    <color name="line_text_color">#6bc78b</color>
+    <color name="setting_item_bg">#dedfe0</color>
+    <color name="title_bg">#008B45</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <dimen name="marginLeftAndRight">18dp</dimen>
+    <dimen name="title_height">56dp</dimen>
+    <dimen name="title_setting_height">14dp</dimen>
+    <dimen name="title_setting_width">20dp</dimen>
+    <dimen name="title_textSize">24dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">ExpandListView</string>
+    <string name="commit">完成</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="message">亲，快来测测你的健康指数吧~</string>
+    <string name="name">健康测试</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="my_CheckBox" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:padding">10dp</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+</resources>

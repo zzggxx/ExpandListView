@@ -1,0 +1,4 @@
+#Fri Nov 10 18:04:06 CST 2017
+base.0=F\:\\will_meijuji_learn\\ExpandListView\\android实现新闻分类二级下拉菜单效果\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7
+renamed.0=classes.dex
+file.0=F\:\\will_meijuji_learn\\ExpandListView\\android实现新闻分类二级下拉菜单效果\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7\\classes.dex

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\will_meijuji_learn\\Test\\android个性化ExpandListView二级列表实现\\build\\intermediates\\res\\merged\\release\\layout\\group_layout.xml",
+        "source": "F:\\will_meijuji_learn\\Test\\android个性化ExpandListView二级列表实现\\src\\main\\res\\layout\\group_layout.xml"
+    },
+    {
+        "merged": "F:\\will_meijuji_learn\\Test\\android个性化ExpandListView二级列表实现\\build\\intermediates\\res\\merged\\release\\layout\\activity_layout.xml",
+        "source": "F:\\will_meijuji_learn\\Test\\android个性化ExpandListView二级列表实现\\src\\main\\res\\layout\\activity_layout.xml"
+    },
+    {
+        "merged": "F:\\will_meijuji_learn\\Test\\android个性化ExpandListView二级列表实现\\build\\intermediates\\res\\merged\\release\\layout\\child_layout.xml",
+        "source": "F:\\will_meijuji_learn\\Test\\android个性化ExpandListView二级列表实现\\src\\main\\res\\layout\\child_layout.xml"
+    },
+    {
+        "merged": "F:\\will_meijuji_learn\\Test\\android个性化ExpandListView二级列表实现\\build\\intermediates\\res\\merged\\release\\layout\\child_s_layout.xml",
+        "source": "F:\\will_meijuji_learn\\Test\\android个性化ExpandListView二级列表实现\\src\\main\\res\\layout\\child_s_layout.xml"
+    }
+]
